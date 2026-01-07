@@ -9,4 +9,4 @@ if __name__ == '__main__':
 
 # HackerRank
 
-# Excercise : Python: Division
+# Excercise : Loops
