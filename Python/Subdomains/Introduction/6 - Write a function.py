@@ -11,4 +11,4 @@ print(is_leap(year))
 
 # HackerRank
 
-# Excercise : Python: Division
+# Excercise : Write a function
